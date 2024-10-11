@@ -1,0 +1,26 @@
+{
+    "users" : [
+        {
+            "empName": "Admin1",
+            "username": "admin@gmail.com",
+            "empId": "admin@gmail.com",
+            "dob": "29-06-20201",
+            "joiningDate": "",
+            "remarks": "",
+            "status": "",
+            "password": "admin123",
+            "role": "1"
+        },
+        {
+            "empName": "Admin2",
+            "username": "admin2@gmail.com",
+            "empId": "admin2@gmail.com",
+            "dob": "29-06-20201",
+            "joiningDate": "",
+            "remarks": "",
+            "status": "",
+            "password": "admin123",
+            "role": "1"
+        }
+    ]
+}
